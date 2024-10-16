@@ -1,0 +1,7 @@
+invoke
+twine
+wheel
+zest.releaser
+Django>=3.2,<5.0
+djangorestframework>=3.12,<4.0
+
